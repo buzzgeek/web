@@ -16,8 +16,7 @@ function placeAllMarkers() {
 
 Example
 
-./openstreetmap/sample.png
-
+https://github.com/buzzgeek/web/blob/master/openstreetmap/sample.PNG
 
 Please see additional copyright and license requirements
 
