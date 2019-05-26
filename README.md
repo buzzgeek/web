@@ -1,4 +1,4 @@
-# openstreet map.
+# openstreetmap
 
 This project implements an open street map view of a number of people located in Germany. The map.html file contains prety much the entire logik. 
 
