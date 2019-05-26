@@ -14,6 +14,11 @@ function placeAllMarkers() {
 }
 ```
 
+Example
+
+./openstreetmap/sample.png
+
+
 Please see additional copyright and license requirements
 
 [OpenStreetMap Copyright](https://www.openstreetmap.org/copyright)
